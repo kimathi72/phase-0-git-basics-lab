@@ -32,5 +32,6 @@
   },
   "dependencies": {
     "chai-fs": "^2.0.0"
-  }
+  },
+  "main": "index.js"
 }
